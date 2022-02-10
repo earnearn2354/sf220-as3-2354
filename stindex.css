@@ -1,0 +1,29 @@
+h1 { background-color: burlywood;text-align:center;padding: 1.5%;
+    font-family: 'Courier New', Courier, monospace;color: white;
+    width: 80%;margin-left: auto;margin-right: auto;
+    border-style:solid;border-color:white ; }
+
+body {background-color: cornsilk;}
+#style01 {font-family: 'Courier New', Courier, monospace;color: rgb(182, 135, 74);
+    font-weight: bold;}
+
+h2 {font-family: 'Courier New', Courier, monospace;color: rgb(184, 146, 98);text-indent: 2%;
+text-decoration: underline;}
+#style02 {font-family: 'Courier New', Courier, monospace;color: rgb(182, 135, 74);
+    text-align: center;}
+
+#style03 {font-family: 'Courier New', Courier, monospace;color:rgb(182, 135, 74) ;
+    font-weight:bold;text-decoration: underline;font-style: italic;}
+
+.box{
+    position: relative;
+    top: 24px;
+    left: 24px;
+}
+.img {
+    width: 100%;
+}
+
+
+
+
